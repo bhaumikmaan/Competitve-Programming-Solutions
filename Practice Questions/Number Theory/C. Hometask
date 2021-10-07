@@ -1,0 +1,17 @@
+### PROBLEM STATEMENT ### 
+Kolya is still trying to pass a test on Numbers Theory. The lecturer is so desperate about Kolya's knowledge that she gives him the same task every time.
+
+The problem is to check if n! is divisible by n^2.
+
+# Input Format # 
+One integer n (1 ≤ n ≤ 10^9).
+
+# Output Format #
+Print "YES" if n! is divisible by n^2, otherwise print "NO".
+
+### TESTCASES ###
+
+# Sample Input # 
+3
+# Sample Output #
+NO
