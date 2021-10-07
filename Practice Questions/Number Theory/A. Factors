@@ -1,0 +1,31 @@
+## PROBLEM STATEMENT ##
+
+Find the smallest possible integer x, that has exactly n dividers.
+
+# Input Format #
+One positive integer n (1 ≤ n ≤ 16).
+
+# Output Format #
+The smallest possible integer x that has exactly n dividers.
+
+# Constraints #
+Time limit 1 second
+
+Memory limit 128 MiB
+
+### TESTCASES ###
+
+Input example #1
+2
+Output example #1
+2
+
+Input example #2
+4
+Output example #2
+6
+
+Input example #3
+5
+Output example #3
+16
