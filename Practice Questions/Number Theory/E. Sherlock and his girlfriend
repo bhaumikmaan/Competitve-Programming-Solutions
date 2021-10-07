@@ -1,0 +1,35 @@
+### PROBLEM STATEMENT ### 
+Sherlock has a new girlfriend (so unlike him!). Valentine's day is coming and he wants to gift her some jewelry.
+
+He bought n pieces of jewelry. The i-th piece has price equal to i + 1, that is, the prices of the jewelry are 2, 3, 4, ... n + 1.
+
+Watson gave Sherlock a challenge to color these jewelry pieces such that two pieces don't have the same color if the price of one piece is a prime divisor of the price of the other piece. 
+Also, Watson asked him to minimize the number of different colors used.
+
+Help Sherlock complete this trivial task.
+
+# Input Format #
+The only line contains single integer n (1 ≤ n ≤ 100000) — the number of jewelry pieces.
+
+# Output Format # 
+The first line of output should contain a single integer k, the minimum number of colors that can be used to color the pieces of jewelry with the given constraints.
+
+The next line should consist of n space-separated integers (between 1 and k) that specify the color of each piece in the order of increasing price.
+
+If there are multiple ways to color the pieces using k colors, you can output any of them.
+
+### TESTCASES ### 
+
+# Sample Input #
+3
+
+# Sample Output #
+2
+1 1 2 
+
+# Sample Input #
+4
+
+# Sample Output #
+2
+2 1 1 2
