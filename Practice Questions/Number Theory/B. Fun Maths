@@ -1,0 +1,26 @@
+## PROBLEM STATEMENT ## 
+
+Chef meets his friend Rohan after a long time. Rohan is quite good at maths. He gives some problems to Chef. Since Chef is weak in maths he wants your help.
+You have to find the sum of three numbers such that lcm of first two numbers and last two numbers are given.
+These three numbers are pairwise distinct and also co prime to one other.
+
+# Input Format #
+t: no of test cases
+m,n: lcm of first two numbers and last two numbers respectively
+
+# Output Format # 
+Sum of three numbers
+
+# Constraints # 
+1 <= t <= 1000
+1 <= m,n <= 10000
+
+### TEST CASES ###
+Sample Input:
+2
+6 15
+35 77
+
+Sample Output:
+10
+23
