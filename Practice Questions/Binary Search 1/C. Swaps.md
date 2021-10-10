@@ -1,13 +1,13 @@
 ## Problem Statement 
-You are given two arrays a and b of length n. Array aa contains each odd integer from 1 to 2n in an arbitrary order, and array bb contains each even integer from 11 to 2n2n in an arbitrary order.
+You are given two arrays a and b of length n. Array aa contains each odd integer from 1 to 2n in an arbitrary order, and array bb contains each even integer from 1 to 2n in an arbitrary order.
 
 You can perform the following operation on those arrays:
 
 1. choose one of the two arrays
-2. pick an index ii from 11 to n-1n−1
-3. swap the ii-th and the (i+1)(i+1)-th elements of the chosen array <br>
+2. pick an index ii from 1 to n-1
+3. swap the ii-th and the (i+1)(-th elements of the chosen array <br>
 Compute the minimum number of operations needed to make array a lexicographically smaller than array b.
-For two different arrays xx and yy of the same length nn, we say that x is lexicographically smaller than y if in the first position where xx and yy differ, the array xx has a smaller element than the corresponding element in yy.
+For two different arrays xx and yy of the same length nn, we say that x is lexicographically smaller than y if in the first position where x and y differ, the array x has a smaller element than the corresponding element in y.
 ### Format
 
 Input
@@ -23,6 +23,7 @@ It is guaranteed that the sum of n over all test cases does not exceed 10^5.
 
 ### Test Cases
 Input:
+```
 3
 2
 3 1
@@ -33,8 +34,10 @@ Input:
 5
 7 5 9 1 3
 2 4 6 10 8
-
+```
 Output:
+```
 0
 2
 3
+```
