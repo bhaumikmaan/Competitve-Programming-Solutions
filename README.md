@@ -1,7 +1,9 @@
-# Competitive-Programming-Soutions
-A repository for solutions of questions solved during practice and contests on different Competitive Programming Sites! <br>
-Check Out the solutions here. <br>
+<h1 align="middle"> Competitive-Programming-Soutions </h1>
+<p align ="middle"> A repository for solutions of questions solved during practice and contests on different Competitive Programming Sites! <br>
+<b><i>Do star the Repository if you feel it helped & drop a follow for more!</b></i><br>
+Check Out the solutions here. <br></p>
 
+## Index
 | S.No | Contents |
 | ------- | --- |
 | 1 | [Codeforces](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Codeforces) |
@@ -9,8 +11,23 @@ Check Out the solutions here. <br>
 | 3 | [Leetcode](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/LeetCode) |
 | 4 | [AtCoder](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/AtCoder)|
 
-## Practice Questions Sorted By Topic
-[Practice Questions](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Practice%20Questions) <br>
+<br>
+
+## Practice Contests Sorted By Topic
+| S.No | Contents |
+| ------- | --- |
+| 1 | [Number Theory](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Number%20Theory) |
+| 2 | [Binary Search - I](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Binary%20Search%201)|
+
+<br>
+
+## Special Contests
+| S.No | Contents |
+| ------- | --- |
+| 1 | [SnackDown 2021 - Online Qualifiers](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Online%20Qualifiers)|
+| 2 | [Credit Suisse GCC 2021](https://github.com/bhaumikmaan/Credit-Suisse-GCC-2021-Solutions)|
+
+<br>
 
 ## Profile Links
 | S.No | Platform | Profile |
@@ -22,8 +39,12 @@ Check Out the solutions here. <br>
 | 5 | [HackerRank](https://www.hackerrank.com/dashboard) | [Maango16](https://www.hackerrank.com/Maango16?hr_r=1) | 
 | 6 | [StopStalk](https://www.stopstalk.com/) | [Maango16](https://www.stopstalk.com/user/profile/Maango16) |
 
+<br>
+
 ## Navigation
 Each folder has the name starting with problem or contest code/number followed by the round in which the problem appeared
+
+<br>
 
 ## Contribute
 This is open to all the GitHub users. If the solution already exists then it will not be merged. <br> 
@@ -32,5 +53,7 @@ This is open to all the GitHub users. If the solution already exists then it wil
 • Please refrain from adding plagiarised code. In case you are using someone's code please add credit or reference. <br>
 • Refer to [this](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/blob/main/Codeforces/Z%20Format.cpp) as the format for contribution
 
-### Search Tags
-Codeforces Solutions | Codechef Solutions | Codechef Long | Codechef Cookoff | Codechef Starter | Codechef Lunchtime | Atcoder Solutions | Atcoder Beginner Contest | Hackerrank Solutions | Leetcode Solutions | Leetcode Daily |
+<br>
+
+## Search Tags
+Codeforces Solutions | Codechef Solutions | Codechef Long | Codechef Cookoff | Codechef Starter | Codechef Lunchtime | Atcoder Solutions | Atcoder Beginner Contest | Hackerrank Solutions | Leetcode Solutions | Leetcode Daily | Codechef Snackdown | 
