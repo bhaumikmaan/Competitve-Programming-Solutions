@@ -1,4 +1,8 @@
 # Questions And Solutions
+## World Rank
+![Rank](https://user-images.githubusercontent.com/82998871/137487852-3a43c903-c157-472b-9089-91b0ef61a7cd.png)
+
+
 ## October Long 2021
 
 | S.No | Question Links | Solution |
