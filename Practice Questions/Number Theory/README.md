@@ -1,5 +1,5 @@
-# Questions And Solutions
-## Topic - Number Theory
+<h1 align = "center"> Questions And Solutions </h1>
+<h2 align = "center"> Topic - Number Theory </h2> <br>
 
 | S.No | Question Links | Solution |
 | ------- | ------- | ------- | 
