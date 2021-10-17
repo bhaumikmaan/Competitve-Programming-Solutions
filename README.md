@@ -1,5 +1,5 @@
-<h1 align="middle"> Competitive-Programming-Soutions </h1>
-<p align ="middle"> A repository for solutions of questions solved during practice and contests on different Competitive Programming Sites! <br>
+<h1 align="middle"> Competitive-Programming-Solutions </h1>
+<p align ="middle"> A repository for solutions of questions solved during practice & contests on different Competitive Programming Sites! <br>
 <b><i>Do star the Repository if you feel it helped & drop a follow for more!</b></i><br>
 Check Out the solutions here. <br></p>
 
