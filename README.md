@@ -17,7 +17,7 @@ Check Out the solutions here. <br></p>
 | S.No | Contents |
 | ------- | --- |
 | 1 | [Number Theory](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Number%20Theory) |
-| 2 | [Binary Search - I](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Binary%20Search%201)|
+| 2 | [Binary Search And Prefix Sum - I](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Binary%20Search%201)|
 
 <br>
 
