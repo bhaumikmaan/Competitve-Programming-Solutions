@@ -19,4 +19,52 @@
 
 // SOLUTION
 
-STAR THE REPO AND FOLLOW
+#include<bits/stdc++.h>
+typedef long long ll ;
+#define int ll 
+#define pb push_back
+#define all(v) v.begin(),v.end()
+#define mod 1000000007
+#define inf LLONG_MAX
+using namespace std ;
+void solve( )
+{
+	int e = 0 , i = 0 ;
+	for(int j = 0 ; j < 5 ; j++)
+	{
+		int x ;
+		cin >> x ;
+		if(x == 1)
+		{
+			i++ ;
+		}
+		else if(x == 2)
+		{
+			e++ ;
+		}
+	}
+	if(i == e)
+	{
+		cout << "DRAW" ;
+	}
+	else if(i > e)
+	{
+		cout << "INDIA" ;
+	}
+	else
+	{
+		cout << "ENGLAND" ;
+	}
+}
+signed main( )
+{
+    ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+    int testcases = 1 ;
+    cin >> testcases ;
+    while( testcases -- )
+    {
+    	solve() ;
+        cout << "\n" ;
+    }
+    return 0 ;
+}    
