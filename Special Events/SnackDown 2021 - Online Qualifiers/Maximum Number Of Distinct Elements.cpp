@@ -21,4 +21,50 @@
 
 // SOLUTION
 
-STAR THE REPO AND FOLLOW
+#include<bits/stdc++.h>
+typedef long long ll ;
+#define int ll 
+#define pb push_back
+#define all(v) v.begin(),v.end()
+#define mod 1000000007
+#define inf LLONG_MAX
+using namespace std ;
+bool cond(pair<int,int> p , pair<int,int> q)
+{
+	return p.second < q.second ; 
+}
+signed main( )
+{
+    ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+    int testcases = 1 ;
+    cin >> testcases ;
+    while( testcases -- )
+    {
+        int n ;
+        cin >> n ;
+        vector<pair<int,int>> v(n) ;
+        for(int i = n ; i < 2*n ; i++)
+        {
+        	int x ;
+        	cin >> x ;
+        	v.pb({x , i}) ;
+        }
+        sort(all(v)) ;
+        int x = 0 ;
+        for(int i = n ; i < 2*n ; i++)
+        {
+        	if(v[i].first > x)
+        	{
+        		v[i].first = x ;
+        		x++ ;
+        	}
+        }
+        sort(all(v) , cond) ;
+        for(int i = n ; i < 2*n ; i++)
+        {
+        	cout << v[i].first << " " ;
+        }
+        cout << "\n" ;
+    }
+    return 0 ;
+}    
