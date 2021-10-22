@@ -24,8 +24,9 @@ Check Out the solutions here. <br></p>
 ## Special Contests
 | S.No | Contents |
 | ------- | --- |
-| 1 | [SnackDown 2021 - Online Qualifiers](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Online%20Qualifiers)|
-| 2 | [Credit Suisse GCC 2021](https://github.com/bhaumikmaan/Credit-Suisse-GCC-2021-Solutions)|
+| 1 | [Credit Suisse GCC 2021](https://github.com/bhaumikmaan/Credit-Suisse-GCC-2021-Solutions)|
+| 2 | [SnackDown 2021 - Online Qualifiers](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Online%20Qualifiers)|
+| 3 | [SnackDown 2021 - Round 1A](https://github.com/bhaumikmaan/Competitve-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Round%201A)|
 
 <br>
 
