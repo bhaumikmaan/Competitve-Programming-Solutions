@@ -1,3 +1,6 @@
+/***  KNOWLEDGE IS POWER  ***/
+//  APPROACH I //
+
 class Solution {
 public:
     int myAtoi(string s) {
